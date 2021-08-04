@@ -1,7 +1,8 @@
 # Mixsurvey
 Sistema de enquete desenvolvido em Laravel com vuejs
 
-![Screenshot](images/HomeMixSurvey.jpg)
+<img src="images/HomeMixSurvey.jpg" width="100" height="100"/>
+
 
 ![Screenshot](images/login.jpg)
 
