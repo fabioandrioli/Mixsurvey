@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box!important;
+}
+
+html,body{
+    height: 100%;
+}
+
+body{
+    width: 100%!important;
+    background-color: #e0e0e0;
+}
+
+.btn_register_user_index{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.edit_user_module_index{
+    color:black;
+}
+
+.edit_user_module_index:link{
+    text-decoration: none;
+}
+
+.edit_user_module_index:hover{
+    color:black;
+}
+
+.edit_label {
+    display: none;
+}
+
+.edit_user_module_index:hover .edit_label{
+    display: inline;
+}
+
+.myCard{
+    background-color: rgb(109, 158, 204);
+    margin-top:1%;
+    padding: 2%;
+    border-radius: 0.5em;
+}
+
